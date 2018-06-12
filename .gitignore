@@ -1,5 +1,5 @@
-node_modules/
-public/third_party/
-public/images/
-Memos/
+NodeScraping/node_modules/
+NodeScraping/public/third_party/
+NodeScraping/public/images/
+NodeScraping/Memos/
 
