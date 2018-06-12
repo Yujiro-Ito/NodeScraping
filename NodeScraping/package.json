@@ -1,0 +1,20 @@
+{
+  "name": "nodescraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio-httpcli": "^0.7.3",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "puppeteer": "^1.4.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}

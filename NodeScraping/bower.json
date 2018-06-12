@@ -1,0 +1,22 @@
+{
+  "name": "sample",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Yujiro-Ito <yujiro.bear@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2",
+    "bootstrap": "^4.1.1"
+  }
+}
