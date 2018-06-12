@@ -1,5 +1,5 @@
 node_modules/
-third_party/*
-images/*
+public/third_party/
+public/images/
 Memos/
 
